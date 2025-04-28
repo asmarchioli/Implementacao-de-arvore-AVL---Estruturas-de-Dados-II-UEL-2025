@@ -84,6 +84,6 @@ Porém, após estudar as lógicas e diferentes abordagens de implementação, eu
 
 Exemplo de representação vertical:
 
-![Exemplo de representação vertical de árvore AVL](imagens/avl-tree-vertical.png)
+![Exemplo de representação vertical de árvore AVL](imagens/avl-tree-vertical.PNG)
 
 **Fonte:** Saída da função `main()` implementada no código `avl.c`.
